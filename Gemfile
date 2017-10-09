@@ -55,3 +55,5 @@ gem 'friendly_id', '~> 5.1.0'
 gem 'devise', '~> 4.3'
 gem 'bootstrap', '~> 4.0.0.alpha6'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
+
+gem 'devcamp_view_tool', git: 'https://github.com/mostafaism/devcamp_view_tool'
